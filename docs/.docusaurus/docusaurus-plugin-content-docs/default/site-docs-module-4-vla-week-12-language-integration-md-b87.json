@@ -1,0 +1,27 @@
+{
+  "id": "module-4-vla/week-12-language-integration",
+  "title": "Week 12: Language Grounding & Multi-Modal Integration",
+  "description": "Overview",
+  "source": "@site/docs/module-4-vla/week-12-language-integration.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/week-12-language-integration",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/week-12-language-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/module-4-vla/week-12-language-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 11: VLA Foundations",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/week-11-vla-foundations"
+  },
+  "next": {
+    "title": "Week 13: Autonomous Workflows",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/week-13-autonomous-workflows"
+  }
+}

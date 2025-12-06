@@ -1,0 +1,27 @@
+{
+  "id": "capstone/overview",
+  "title": "Capstone Project: Autonomous Humanoid Pipeline",
+  "description": "Overview",
+  "source": "@site/docs/capstone/overview.md",
+  "sourceDirName": "capstone",
+  "slug": "/capstone/overview",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/capstone/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/capstone/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 13: Autonomous Workflows",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/week-13-autonomous-workflows"
+  },
+  "next": {
+    "title": "Stage 1: Voice Input",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/capstone/stage-1-voice-input"
+  }
+}

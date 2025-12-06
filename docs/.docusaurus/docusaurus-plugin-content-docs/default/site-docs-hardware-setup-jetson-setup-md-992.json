@@ -1,0 +1,27 @@
+{
+  "id": "hardware-setup/jetson-setup",
+  "title": "Jetson Orin Setup - Edge AI Deployment",
+  "description": "Supported Models",
+  "source": "@site/docs/hardware-setup/jetson-setup.md",
+  "sourceDirName": "hardware-setup",
+  "slug": "/hardware-setup/jetson-setup",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/jetson-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/hardware-setup/jetson-setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Workstation Setup",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/workstation-setup"
+  },
+  "next": {
+    "title": "Humanoid Robot Integration",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/humanoid-robots"
+  }
+}

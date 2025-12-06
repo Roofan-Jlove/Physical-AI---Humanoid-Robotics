@@ -1,0 +1,59 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a simple framework built on top of it.
+ * The below code is provided as an example to customize Infima. Before
+ * customizing the Infima CSS variables:
+ * - Review the full list of available CSS variables (see Infima's
+ * README.md): https://github.com/facebookexperimental/infima/blob/main/README.md
+ * - The best place to try different values is in your browser's devtools
+ * while navigating the Docusaurus docs site. Use the ">>>" button to
+ * inspect the site in your browser's devtools. A helpful Claire to know:
+ * - the CSS variable naming convention is `--ifm-` for layout-related
+ * variables and `--docusaurus-` for Docusaurus-specific variables.
+ * - Always put custom CSS last to override setting in the official docs.
+ * - List of CSS Variables:
+ * https://github.com/facebook/docusaurus/search?q=--ifm-&type=code
+ */
+
+:root {
+  --ifm-color-primary: #2e8555;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #1f6637;
+  --ifm-color-primary-darkest: #1a5276;
+  --ifm-color-primary-light: #378a64;
+  --ifm-color-primary-lighter: #4a9f75;
+  --ifm-color-primary-lightest: #6cc8a6;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #4db8a8;
+  --ifm-color-primary-dark: #42a09a;
+  --ifm-color-primary-darker: #3c948f;
+  --ifm-color-primary-darkest: #2f7178;
+  --ifm-color-primary-light: #5ec4b3;
+  --ifm-color-primary-lighter: #68d0be;
+  --ifm-color-primary-lightest: #7fdcc9;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Custom styling for Physical AI & Humanoid Robotics */
+.docusaurus-highlight {
+  background-color: transparent;
+}
+
+.markdown h1:first-child {
+  --ifm-heading-vertical-rhythm-bottom: 0.5rem;
+}
+
+code {
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 0.1rem 0.3rem;
+  border-radius: 0.25rem;
+}
+
+[data-theme='dark'] code {
+  background-color: rgba(255, 255, 255, 0.1);
+}

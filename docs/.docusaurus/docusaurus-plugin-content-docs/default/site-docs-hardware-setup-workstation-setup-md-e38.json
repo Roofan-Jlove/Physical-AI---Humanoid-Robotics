@@ -1,0 +1,27 @@
+{
+  "id": "hardware-setup/workstation-setup",
+  "title": "Workstation Setup - Ubuntu 22.04 + GPU",
+  "description": "Prerequisites",
+  "source": "@site/docs/hardware-setup/workstation-setup.md",
+  "sourceDirName": "hardware-setup",
+  "slug": "/hardware-setup/workstation-setup",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/workstation-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/hardware-setup/workstation-setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hardware Overview",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/overview"
+  },
+  "next": {
+    "title": "Jetson Orin Setup",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/jetson-setup"
+  }
+}

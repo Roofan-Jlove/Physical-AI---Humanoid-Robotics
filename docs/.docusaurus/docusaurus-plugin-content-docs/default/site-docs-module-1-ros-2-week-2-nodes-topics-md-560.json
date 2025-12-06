@@ -1,0 +1,27 @@
+{
+  "id": "module-1-ros2/week-2-nodes-topics",
+  "title": "Week 2: Services, Actions & Multi-Node Systems",
+  "description": "Overview",
+  "source": "@site/docs/module-1-ros2/week-2-nodes-topics.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/week-2-nodes-topics",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-1-ros2/week-2-nodes-topics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/module-1-ros2/week-2-nodes-topics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 1: ROS 2 Introduction",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-1-ros2/week-1-intro"
+  },
+  "next": {
+    "title": "Module Overview",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/overview"
+  }
+}

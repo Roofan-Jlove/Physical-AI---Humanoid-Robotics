@@ -1,0 +1,27 @@
+{
+  "id": "module-3-isaac/week-10-perception-pipeline",
+  "title": "Week 10: End-to-End Perception Pipeline",
+  "description": "Overview",
+  "source": "@site/docs/module-3-isaac/week-10-perception-pipeline.md",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/week-10-perception-pipeline",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-10-perception-pipeline",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/module-3-isaac/week-10-perception-pipeline.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 9: Vision Systems",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-9-vision-systems"
+  },
+  "next": {
+    "title": "Module Overview",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/overview"
+  }
+}

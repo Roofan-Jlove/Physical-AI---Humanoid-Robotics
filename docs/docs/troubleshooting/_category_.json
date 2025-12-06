@@ -1,0 +1,8 @@
+{
+  "label": "Troubleshooting",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "Common issues and debugging guides for ROS 2, Gazebo, Isaac Sim, and more."
+  }
+}

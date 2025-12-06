@@ -1,0 +1,27 @@
+{
+  "id": "module-2-simulation/week-3-gazebo-basics",
+  "title": "Week 3: Gazebo Basics & Physics Simulation",
+  "description": "Overview",
+  "source": "@site/docs/module-2-simulation/week-3-gazebo-basics.md",
+  "sourceDirName": "module-2-simulation",
+  "slug": "/module-2-simulation/week-3-gazebo-basics",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-3-gazebo-basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/module-2-simulation/week-3-gazebo-basics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module Overview",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/overview"
+  },
+  "next": {
+    "title": "Week 4: URDF & SDF",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-4-urdf-sdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "module-4-vla/overview",
+  "title": "Module 4: Vision-Language-Action Systems",
+  "description": "Overview",
+  "source": "@site/docs/module-4-vla/overview.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/overview",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/module-4-vla/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 10: Perception Pipeline",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-10-perception-pipeline"
+  },
+  "next": {
+    "title": "Week 11: VLA Foundations",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/week-11-vla-foundations"
+  }
+}

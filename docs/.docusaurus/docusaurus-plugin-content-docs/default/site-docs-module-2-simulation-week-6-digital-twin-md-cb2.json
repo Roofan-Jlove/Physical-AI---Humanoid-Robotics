@@ -1,0 +1,27 @@
+{
+  "id": "module-2-simulation/week-6-digital-twin",
+  "title": "Week 6: Digital Twin Architecture & Sim-to-Real",
+  "description": "Overview",
+  "source": "@site/docs/module-2-simulation/week-6-digital-twin.md",
+  "sourceDirName": "module-2-simulation",
+  "slug": "/module-2-simulation/week-6-digital-twin",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-6-digital-twin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/module-2-simulation/week-6-digital-twin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 5: Unity Robotics (Optional)",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-5-unity-intro"
+  },
+  "next": {
+    "title": "Module Overview",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/overview"
+  }
+}

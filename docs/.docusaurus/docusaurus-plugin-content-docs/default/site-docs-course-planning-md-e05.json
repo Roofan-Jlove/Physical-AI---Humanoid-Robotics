@@ -1,0 +1,18 @@
+{
+  "id": "course-planning",
+  "title": "Course Planning Guide for Instructors",
+  "description": "Overview",
+  "source": "@site/docs/course-planning.md",
+  "sourceDirName": ".",
+  "slug": "/course-planning",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/course-planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/course-planning.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1.5,
+  "frontMatter": {
+    "sidebar_position": 1.5
+  }
+}

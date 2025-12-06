@@ -1,0 +1,27 @@
+{
+  "id": "module-2-simulation/overview",
+  "title": "Module 2: Simulation & Digital Twins",
+  "description": "Overview",
+  "source": "@site/docs/module-2-simulation/overview.md",
+  "sourceDirName": "module-2-simulation",
+  "slug": "/module-2-simulation/overview",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/module-2-simulation/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 2: Nodes, Topics & Services",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-1-ros2/week-2-nodes-topics"
+  },
+  "next": {
+    "title": "Week 3: Gazebo Basics",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-3-gazebo-basics"
+  }
+}

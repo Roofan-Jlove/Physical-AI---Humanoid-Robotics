@@ -1,0 +1,27 @@
+{
+  "id": "module-4-vla/week-13-autonomous-workflows",
+  "title": "Week 13: Autonomous Workflows & System Integration",
+  "description": "Overview",
+  "source": "@site/docs/module-4-vla/week-13-autonomous-workflows.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/week-13-autonomous-workflows",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/week-13-autonomous-workflows",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/module-4-vla/week-13-autonomous-workflows.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 12: Language Integration",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/week-12-language-integration"
+  },
+  "next": {
+    "title": "Capstone Overview",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/capstone/overview"
+  }
+}

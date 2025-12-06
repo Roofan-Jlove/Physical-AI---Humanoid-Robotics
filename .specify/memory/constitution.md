@@ -1,27 +1,17 @@
 <!--
 Sync Impact Report:
-- Version change: 0.1.0 → 0.1.0 (No semantic changes)
+- Version change: 0.1.0 → 0.1.0 (PATCH: Resolved RATIFICATION_DATE; no governance changes)
 - Modified principles: None
 - Added sections: None
 - Removed sections: None
 - Templates requiring updates:
-  - .specify/templates/plan-template.md: ⚠ pending
-  - .specify/templates/spec-template.md: ⚠ pending
-  - .specify/templates/tasks-template.md: ⚠ pending
-  - .claude/commands/sp.adr.md: ⚠ pending
-  - .claude/commands/sp.analyze.md: ⚠ pending
-  - .claude/commands/sp.checklist.md: ⚠ pending
-  - .claude/commands/sp.clarify.md: ⚠ pending
-  - .claude/commands/sp.constitution.md: ✅ updated
-  - .claude/commands/sp.git.commit_pr.md: ⚠ pending
-  - .claude/commands/sp.implement.md: ⚠ pending
-  - .claude/commands/sp.phr.md: ⚠ pending
-  - .claude/commands/sp.plan.md: ⚠ pending
-  - .claude/commands/sp.specify.md: ⚠ pending
-  - .claude/commands/sp.tasks.md: ⚠ pending
-  - CLAUDE.md: ⚠ pending
+  - .specify/templates/plan-template.md: ⚠ pending review
+  - .specify/templates/spec-template.md: ⚠ pending review
+  - .specify/templates/tasks-template.md: ⚠ pending review
+  - .claude/commands/*.md: ⚠ pending review for alignment
+  - CLAUDE.md: ⚠ pending review for alignment
 - Follow-up TODOs:
-  - TODO(RATIFICATION_DATE): Original adoption date is unknown. Needs to be determined.
+  - None outstanding (constitution is now complete and effective)
 -->
 # AI/Spec-Driven Book Creation Using Docusaurus, GitHub Pages, Spec-Kit Plus, and Claude Code Constitution
 
@@ -70,4 +60,4 @@ Traceability: claims about tools, frameworks, or technologies should reference o
 ## Governance
 This constitution supersedes all other practices; amendments require documentation, approval, and a migration plan. All PRs/reviews must verify compliance.
 
-**Version**: 0.1.0 | **Ratified**: TODO(RATIFICATION_DATE): Original adoption date is unknown. Needs to be determined. | **Last Amended**: 2025-12-06
+**Version**: 0.1.0 | **Ratified**: 2025-12-06 | **Last Amended**: 2025-12-06

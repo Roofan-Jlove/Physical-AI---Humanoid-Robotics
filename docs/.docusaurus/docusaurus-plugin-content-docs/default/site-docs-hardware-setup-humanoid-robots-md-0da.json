@@ -1,0 +1,27 @@
+{
+  "id": "hardware-setup/humanoid-robots",
+  "title": "Placeholder",
+  "description": "This page is under development.",
+  "source": "@site/docs/hardware-setup/humanoid-robots.md",
+  "sourceDirName": "hardware-setup",
+  "slug": "/hardware-setup/humanoid-robots",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/humanoid-robots",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/hardware-setup/humanoid-robots.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jetson Orin Setup",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/jetson-setup"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/references/glossary"
+  }
+}

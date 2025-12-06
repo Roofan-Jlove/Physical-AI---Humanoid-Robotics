@@ -1,0 +1,27 @@
+{
+  "id": "module-4-vla/week-11-vla-foundations",
+  "title": "Week 11: VLA Foundations - Vision-Language-Action Models",
+  "description": "Overview",
+  "source": "@site/docs/module-4-vla/week-11-vla-foundations.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/week-11-vla-foundations",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/week-11-vla-foundations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/module-4-vla/week-11-vla-foundations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module Overview",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/overview"
+  },
+  "next": {
+    "title": "Week 12: Language Integration",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/week-12-language-integration"
+  }
+}

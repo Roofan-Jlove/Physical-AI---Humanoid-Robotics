@@ -1,0 +1,23 @@
+{
+  "id": "troubleshooting/isaac-issues",
+  "title": "Isaac Sim Troubleshooting",
+  "description": "GPU Issues",
+  "source": "@site/docs/troubleshooting/isaac-issues.md",
+  "sourceDirName": "troubleshooting",
+  "slug": "/troubleshooting/isaac-issues",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/troubleshooting/isaac-issues",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/troubleshooting/isaac-issues.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gazebo Troubleshooting",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/troubleshooting/gazebo-issues"
+  }
+}

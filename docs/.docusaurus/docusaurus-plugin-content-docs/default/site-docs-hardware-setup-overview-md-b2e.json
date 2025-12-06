@@ -1,0 +1,27 @@
+{
+  "id": "hardware-setup/overview",
+  "title": "Hardware Setup Overview",
+  "description": "Supported Platforms",
+  "source": "@site/docs/hardware-setup/overview.md",
+  "sourceDirName": "hardware-setup",
+  "slug": "/hardware-setup/overview",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/hardware-setup/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Stage 5: Manipulation",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/capstone/stage-5-manipulation"
+  },
+  "next": {
+    "title": "Workstation Setup",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/workstation-setup"
+  }
+}

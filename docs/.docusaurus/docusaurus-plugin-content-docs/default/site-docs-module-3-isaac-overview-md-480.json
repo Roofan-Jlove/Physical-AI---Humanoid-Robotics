@@ -1,0 +1,27 @@
+{
+  "id": "module-3-isaac/overview",
+  "title": "Module 3: Advanced Perception",
+  "description": "Overview",
+  "source": "@site/docs/module-3-isaac/overview.md",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/overview",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/module-3-isaac/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 6: Digital Twin Architecture",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-6-digital-twin"
+  },
+  "next": {
+    "title": "Week 7: Isaac Sim Basics",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-7-isaac-basics"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "module-3-isaac/week-8-ros2-bridge",
+  "title": "Week 8: Isaac Sim + ROS 2 Bridge Integration",
+  "description": "Overview",
+  "source": "@site/docs/module-3-isaac/week-8-ros2-bridge.md",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/week-8-ros2-bridge",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-8-ros2-bridge",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/module-3-isaac/week-8-ros2-bridge.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 7: Isaac Sim Basics",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-7-isaac-basics"
+  },
+  "next": {
+    "title": "Week 9: Vision Systems",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-9-vision-systems"
+  }
+}

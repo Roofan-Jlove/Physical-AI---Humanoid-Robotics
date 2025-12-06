@@ -1,0 +1,8 @@
+{
+  "label": "Module 2: Simulation & Digital Twins",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Simulate robots in Gazebo and Unity, learn digital twin architecture, and explore advanced visualization."
+  }
+}

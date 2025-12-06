@@ -1,0 +1,8 @@
+{
+  "label": "Hardware & Setup",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Configure workstations, edge devices, and humanoid robots for the curriculum."
+  }
+}

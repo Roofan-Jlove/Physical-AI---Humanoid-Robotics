@@ -1,0 +1,27 @@
+{
+  "id": "module-1-ros2/overview",
+  "title": "Module 1: ROS 2 Foundations",
+  "description": "Overview",
+  "source": "@site/docs/module-1-ros2/overview.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/overview",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-1-ros2/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/module-1-ros2/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/intro"
+  },
+  "next": {
+    "title": "Week 1: ROS 2 Introduction",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-1-ros2/week-1-intro"
+  }
+}

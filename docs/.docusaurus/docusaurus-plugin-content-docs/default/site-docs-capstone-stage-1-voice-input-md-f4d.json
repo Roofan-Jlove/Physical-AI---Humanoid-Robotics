@@ -1,0 +1,27 @@
+{
+  "id": "capstone/stage-1-voice-input",
+  "title": "Stage 1: Voice Input - Natural Language Commands",
+  "description": "Overview",
+  "source": "@site/docs/capstone/stage-1-voice-input.md",
+  "sourceDirName": "capstone",
+  "slug": "/capstone/stage-1-voice-input",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/capstone/stage-1-voice-input",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/capstone/stage-1-voice-input.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Capstone Overview",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/capstone/overview"
+  },
+  "next": {
+    "title": "Stage 2: Planning",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/capstone/stage-2-planning"
+  }
+}

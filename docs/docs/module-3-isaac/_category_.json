@@ -1,0 +1,8 @@
+{
+  "label": "Module 3: Advanced Perception",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Deploy perception pipelines using NVIDIA Isaac Sim, integrate vision systems, and train models with photorealistic simulation."
+  }
+}

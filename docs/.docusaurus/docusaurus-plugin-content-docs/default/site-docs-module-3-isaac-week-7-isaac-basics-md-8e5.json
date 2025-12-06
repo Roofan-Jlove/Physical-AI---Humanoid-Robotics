@@ -1,0 +1,27 @@
+{
+  "id": "module-3-isaac/week-7-isaac-basics",
+  "title": "Week 7: NVIDIA Isaac Sim Basics",
+  "description": "Overview",
+  "source": "@site/docs/module-3-isaac/week-7-isaac-basics.md",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/week-7-isaac-basics",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-7-isaac-basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/module-3-isaac/week-7-isaac-basics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module Overview",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/overview"
+  },
+  "next": {
+    "title": "Week 8: ROS 2 Bridge Integration",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-8-ros2-bridge"
+  }
+}

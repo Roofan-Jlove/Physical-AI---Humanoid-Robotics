@@ -1,0 +1,27 @@
+{
+  "id": "module-2-simulation/week-4-urdf-sdf",
+  "title": "Week 4: URDF & SDF - Robot Description Formats",
+  "description": "Overview",
+  "source": "@site/docs/module-2-simulation/week-4-urdf-sdf.md",
+  "sourceDirName": "module-2-simulation",
+  "slug": "/module-2-simulation/week-4-urdf-sdf",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-4-urdf-sdf",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/module-2-simulation/week-4-urdf-sdf.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 3: Gazebo Basics",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-3-gazebo-basics"
+  },
+  "next": {
+    "title": "Week 5: Unity Robotics (Optional)",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-5-unity-intro"
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/Physical-AI-&-Humanoid-Robotics/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/Physical-AI-&-Humanoid-Robotics/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "capstone/overview",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/capstone/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "capstone/stage-1-voice-input",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/capstone/stage-1-voice-input",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "capstone/stage-2-planning",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/capstone/stage-2-planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "capstone/stage-3-navigation",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/capstone/stage-3-navigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "capstone/stage-4-perception",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/capstone/stage-4-perception",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "capstone/stage-5-manipulation",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/capstone/stage-5-manipulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contributing",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/contributing"
+            },
+            {
+              "id": "course-planning",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/course-planning"
+            },
+            {
+              "id": "hardware-setup/humanoid-robots",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/humanoid-robots",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hardware-setup/jetson-setup",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/jetson-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hardware-setup/overview",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hardware-setup/workstation-setup",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/workstation-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/overview",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-1-ros2/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/week-1-intro",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-1-ros2/week-1-intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/week-2-nodes-topics",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-1-ros2/week-2-nodes-topics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-simulation/overview",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-simulation/week-3-gazebo-basics",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-3-gazebo-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-simulation/week-4-urdf-sdf",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-4-urdf-sdf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-simulation/week-5-unity-intro",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-5-unity-intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-simulation/week-6-digital-twin",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-6-digital-twin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac/overview",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac/week-10-perception-pipeline",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-10-perception-pipeline",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac/week-7-isaac-basics",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-7-isaac-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac/week-7-isaac-basicsros2-bridgevision-systems",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-7-isaac-basicsros2-bridgevision-systems"
+            },
+            {
+              "id": "module-3-isaac/week-8-ros2-bridge",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-8-ros2-bridge",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac/week-8-ros2-bridgevision-systems",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-8-ros2-bridgevision-systems"
+            },
+            {
+              "id": "module-3-isaac/week-9-vision-systems",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-9-vision-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla/overview",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla/week-11-vla-foundations",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/week-11-vla-foundations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla/week-11-vla-foundationslanguage-integration",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/week-11-vla-foundationslanguage-integration"
+            },
+            {
+              "id": "module-4-vla/week-12-language-integration",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/week-12-language-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla/week-13-autonomous-workflows",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/week-13-autonomous-workflows",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "references/api-reference",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/references/api-reference",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "references/citations",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/references/citations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "references/glossary",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/references/glossary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "student-guide",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/student-guide"
+            },
+            {
+              "id": "troubleshooting/common-issues",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/troubleshooting/common-issues",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "troubleshooting/gazebo-issues",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/troubleshooting/gazebo-issues",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "troubleshooting/isaac-issues",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/troubleshooting/isaac-issues",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "troubleshooting/ros2-issues",
+              "path": "/Physical-AI-&-Humanoid-Robotics/docs/troubleshooting/ros2-issues",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/Physical-AI-&-Humanoid-Robotics/docs/intro",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

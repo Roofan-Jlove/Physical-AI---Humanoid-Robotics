@@ -1,0 +1,179 @@
+{
+  "/Physical-AI-&-Humanoid-Robotics/docs-6b8": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs-e9c": {
+    "__comp": "a7bd4aaa",
+    "__props": "54aac876"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs-fb0": {
+    "__comp": "a94703ab"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/capstone/overview-241": {
+    "__comp": "17896441",
+    "content": "4106a696"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/capstone/stage-1-voice-input-600": {
+    "__comp": "17896441",
+    "content": "f4d3c098"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/capstone/stage-2-planning-6ce": {
+    "__comp": "17896441",
+    "content": "bd4dc050"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/capstone/stage-3-navigation-2ee": {
+    "__comp": "17896441",
+    "content": "4caacd79"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/capstone/stage-4-perception-0e9": {
+    "__comp": "17896441",
+    "content": "383f6ba0"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/capstone/stage-5-manipulation-560": {
+    "__comp": "17896441",
+    "content": "d26a86fe"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/contributing-1b8": {
+    "__comp": "17896441",
+    "content": "4d54d076"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/course-planning-62a": {
+    "__comp": "17896441",
+    "content": "e054f2a3"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/humanoid-robots-9ed": {
+    "__comp": "17896441",
+    "content": "0da2c8cc"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/jetson-setup-e09": {
+    "__comp": "17896441",
+    "content": "99264d71"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/overview-8cf": {
+    "__comp": "17896441",
+    "content": "b2efa8af"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/hardware-setup/workstation-setup-e90": {
+    "__comp": "17896441",
+    "content": "e3895dcd"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/intro-3ec": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-1-ros2/overview-762": {
+    "__comp": "17896441",
+    "content": "9e7bbbd5"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-1-ros2/week-1-intro-bad": {
+    "__comp": "17896441",
+    "content": "0e2cbed6"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-1-ros2/week-2-nodes-topics-a83": {
+    "__comp": "17896441",
+    "content": "560eba04"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/overview-d79": {
+    "__comp": "17896441",
+    "content": "a5bd527b"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-3-gazebo-basics-458": {
+    "__comp": "17896441",
+    "content": "a6e25959"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-4-urdf-sdf-a1d": {
+    "__comp": "17896441",
+    "content": "186246c1"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-5-unity-intro-0dd": {
+    "__comp": "17896441",
+    "content": "e0ea6fab"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-6-digital-twin-454": {
+    "__comp": "17896441",
+    "content": "cb2925a6"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/overview-c38": {
+    "__comp": "17896441",
+    "content": "4808b1c8"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-10-perception-pipeline-311": {
+    "__comp": "17896441",
+    "content": "4f6f194c"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-7-isaac-basics-a1e": {
+    "__comp": "17896441",
+    "content": "8e55e788"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-7-isaac-basicsros2-bridgevision-systems-036": {
+    "__comp": "17896441",
+    "content": "8f04707a"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-8-ros2-bridge-79c": {
+    "__comp": "17896441",
+    "content": "52e6c717"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-8-ros2-bridgevision-systems-8f9": {
+    "__comp": "17896441",
+    "content": "0fa6ba64"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-9-vision-systems-3fe": {
+    "__comp": "17896441",
+    "content": "d435f189"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/overview-d9b": {
+    "__comp": "17896441",
+    "content": "e312b492"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/week-11-vla-foundations-e57": {
+    "__comp": "17896441",
+    "content": "908c4b8c"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/week-11-vla-foundationslanguage-integration-56c": {
+    "__comp": "17896441",
+    "content": "1edbb463"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/week-12-language-integration-fca": {
+    "__comp": "17896441",
+    "content": "b875830a"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/module-4-vla/week-13-autonomous-workflows-ba6": {
+    "__comp": "17896441",
+    "content": "3c7e6ed7"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/references/api-reference-504": {
+    "__comp": "17896441",
+    "content": "752f3a31"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/references/citations-03a": {
+    "__comp": "17896441",
+    "content": "7965ecdb"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/references/glossary-a76": {
+    "__comp": "17896441",
+    "content": "eae929fd"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/student-guide-798": {
+    "__comp": "17896441",
+    "content": "c290ad13"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/troubleshooting/common-issues-aa4": {
+    "__comp": "17896441",
+    "content": "5133d60e"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/troubleshooting/gazebo-issues-783": {
+    "__comp": "17896441",
+    "content": "94483d09"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/troubleshooting/isaac-issues-e89": {
+    "__comp": "17896441",
+    "content": "15722478"
+  },
+  "/Physical-AI-&-Humanoid-Robotics/docs/troubleshooting/ros2-issues-9b8": {
+    "__comp": "17896441",
+    "content": "eec6c9c4"
+  }
+}

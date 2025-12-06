@@ -1,0 +1,27 @@
+{
+  "id": "troubleshooting/gazebo-issues",
+  "title": "Gazebo Troubleshooting",
+  "description": "Physics Simulation Issues",
+  "source": "@site/docs/troubleshooting/gazebo-issues.md",
+  "sourceDirName": "troubleshooting",
+  "slug": "/troubleshooting/gazebo-issues",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/troubleshooting/gazebo-issues",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/troubleshooting/gazebo-issues.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Troubleshooting",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/troubleshooting/ros2-issues"
+  },
+  "next": {
+    "title": "Isaac Sim Troubleshooting",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/troubleshooting/isaac-issues"
+  }
+}

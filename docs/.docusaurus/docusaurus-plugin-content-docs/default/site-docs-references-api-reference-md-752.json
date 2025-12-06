@@ -1,0 +1,27 @@
+{
+  "id": "references/api-reference",
+  "title": "Placeholder",
+  "description": "This page is under development.",
+  "source": "@site/docs/references/api-reference.md",
+  "sourceDirName": "references",
+  "slug": "/references/api-reference",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/references/api-reference",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/references/api-reference.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Citations & Sources",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/references/citations"
+  },
+  "next": {
+    "title": "Common Issues",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/troubleshooting/common-issues"
+  }
+}

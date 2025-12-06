@@ -1,0 +1,27 @@
+{
+  "id": "module-2-simulation/week-5-unity-intro",
+  "title": "Week 5: Unity Robotics - Advanced Visualization (Optional)",
+  "description": "Overview",
+  "source": "@site/docs/module-2-simulation/week-5-unity-intro.md",
+  "sourceDirName": "module-2-simulation",
+  "slug": "/module-2-simulation/week-5-unity-intro",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-5-unity-intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/module-2-simulation/week-5-unity-intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 4: URDF & SDF",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-4-urdf-sdf"
+  },
+  "next": {
+    "title": "Week 6: Digital Twin Architecture",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-2-simulation/week-6-digital-twin"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "references/citations",
+  "title": "Citations & Sources",
+  "description": "Official Documentation (Tier 1)",
+  "source": "@site/docs/references/citations.md",
+  "sourceDirName": "references",
+  "slug": "/references/citations",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/references/citations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/references/citations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Glossary",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/references/glossary"
+  },
+  "next": {
+    "title": "API Reference",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/references/api-reference"
+  }
+}

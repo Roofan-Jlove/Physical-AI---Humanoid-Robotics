@@ -1,0 +1,27 @@
+{
+  "id": "troubleshooting/ros2-issues",
+  "title": "ROS 2 Troubleshooting",
+  "description": "Topic/Service Communication Issues",
+  "source": "@site/docs/troubleshooting/ros2-issues.md",
+  "sourceDirName": "troubleshooting",
+  "slug": "/troubleshooting/ros2-issues",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/troubleshooting/ros2-issues",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/troubleshooting/ros2-issues.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Common Issues",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/troubleshooting/common-issues"
+  },
+  "next": {
+    "title": "Gazebo Troubleshooting",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/troubleshooting/gazebo-issues"
+  }
+}

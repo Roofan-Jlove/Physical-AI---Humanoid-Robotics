@@ -1,0 +1,18 @@
+{
+  "id": "student-guide",
+  "title": "Student Navigation Guide",
+  "description": "Welcome to the Physical AI & Humanoid Robotics curriculum! This guide will help you navigate the course and make the most of your learning experience.",
+  "source": "@site/docs/student-guide.md",
+  "sourceDirName": ".",
+  "slug": "/student-guide",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/student-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/student-guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1.7,
+  "frontMatter": {
+    "sidebar_position": 1.7
+  }
+}

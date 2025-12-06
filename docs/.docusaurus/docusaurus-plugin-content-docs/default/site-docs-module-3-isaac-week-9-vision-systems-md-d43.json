@@ -1,0 +1,27 @@
+{
+  "id": "module-3-isaac/week-9-vision-systems",
+  "title": "Week 9: Vision Systems & Perception Pipelines",
+  "description": "Overview",
+  "source": "@site/docs/module-3-isaac/week-9-vision-systems.md",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/week-9-vision-systems",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-9-vision-systems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/docs/module-3-isaac/week-9-vision-systems.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 8: ROS 2 Bridge Integration",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-8-ros2-bridge"
+  },
+  "next": {
+    "title": "Week 10: Perception Pipeline",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics/docs/module-3-isaac/week-10-perception-pipeline"
+  }
+}
