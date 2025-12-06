@@ -13,13 +13,13 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-github-username.github.io',
+  url: 'https://Roofan-Jlove.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/Physical-AI-&-Humanoid-Robotics/',
 
   // GitHub pages deployment config.
-  organizationName: 'your-github-username',
+  organizationName: 'Roofan-Jlove',
   projectName: 'Physical-AI-&-Humanoid-Robotics',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
@@ -43,12 +43,12 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/',
+            'https://github.com/Roofan-Jlove/Physical-AI-&-Humanoid-Robotics/tree/main/docs/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/tree/main/docs/',
+            'https://github.com/Roofan-Jlove/Physical-AI-&-Humanoid-Robotics/tree/main/docs/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -76,7 +76,7 @@ const config = {
             label: 'Curriculum',
           },
           {
-            href: 'https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics',
+            href: 'https://github.com/Roofan-Jlove/Physical-AI-&-Humanoid-Robotics',
             label: 'GitHub',
             position: 'right',
           },
@@ -103,7 +103,7 @@ const config = {
               },
               {
                 label: 'GitHub Issues',
-                href: 'https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics/issues',
+                href: 'https://github.com/Roofan-Jlove/Physical-AI-&-Humanoid-Robotics/issues',
               },
             ],
           },
@@ -112,7 +112,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/your-github-username/Physical-AI-&-Humanoid-Robotics',
+                href: 'https://github.com/Roofan-Jlove/Physical-AI-&-Humanoid-Robotics',
               },
             ],
           },
